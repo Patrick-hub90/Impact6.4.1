@@ -15,12 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1509.jpg",
+            "image": "shopify://shop_images/IMG_1503.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -28,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -36,11 +36,12 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_1512.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -48,7 +49,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -113,7 +114,7 @@
       "settings": {
         "full_width": true,
         "stack_collections": true,
-        "collections_per_row_mobile": "1",
+        "collections_per_row_mobile": "2",
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
@@ -121,7 +122,7 @@
         "content": "",
         "link_url": "",
         "link_text": "Voir tous",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -133,7 +134,10 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "jean-marc-1960",
+          "pull-over-chevraulet"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -141,17 +145,78 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Best-Seller",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
-        "background": "",
+        "link_text": "Voir tout",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "text_with_icons_MdUtaQ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_HPxeDf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison partout dans le monde",
+            "content": "<p>Livraison et retours gratuits dans le monde entier - taxes douanières et droits de douane inclus.</p>"
+          }
+        },
+        "item_fzbr6w": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service client",
+            "content": "<p>Nous sommes disponibles du lundi au vendredi pour répondre à vos questions.</p>"
+          }
+        },
+        "item_XaA37e": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Paiment sécurisé",
+            "content": "<p>Vos informations de paiement sont traitées de manière sécurisée.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HPxeDf",
+        "item_fzbr6w",
+        "item_XaA37e"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -211,6 +276,7 @@
     "slideshow",
     "collection_list_adCaxd",
     "featured_collection_EQewyp",
+    "text_with_icons_MdUtaQ",
     "faq"
   ]
 }
