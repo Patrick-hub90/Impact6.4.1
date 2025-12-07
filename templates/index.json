@@ -12,6 +12,27 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "video_tVK4pz": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Vidéo 2025-12-06 à 11.19.44_c3523a20.mp4",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "slide-1": {
           "type": "image",
           "settings": {
@@ -35,6 +56,7 @@
         }
       },
       "block_order": [
+        "video_tVK4pz",
         "slide-1"
       ],
       "settings": {
