@@ -15,20 +15,20 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1503.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-12-07_a_15.50.02_3e901fa1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Le Luxe d'une Seconde Vie. Jusqu'à -70%.",
-            "heading_tag": "h0",
+            "heading_tag": "h2",
             "button_text": "Découvrez la collection",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#c9a876",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 9,
             "background": "",
             "background_gradient": ""
           }
@@ -48,6 +48,39 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "rich_text_ezBaJQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XUwRwr": {
+          "type": "heading",
+          "settings": {
+            "text": "Achetez en Toute Confiance",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_nPbVH7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous mettons l'accent sur la qualité, l'authenticité et la satisfaction de nos clients.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XUwRwr",
+        "richtext_nPbVH7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "collection_list_adCaxd": {
@@ -96,8 +129,8 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "TROUVE TON STYLE",
-        "content": "",
+        "title": "Ventes Flash du Jour",
+        "content": "<p>Jusqu'à -70% sur les pièces les plus convoitées.</p>",
         "link_url": "",
         "link_text": "Voir tous",
         "background": "#ffffff",
@@ -252,6 +285,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_ezBaJQ",
     "collection_list_adCaxd",
     "featured_collection_EQewyp",
     "text_with_icons_MdUtaQ",
