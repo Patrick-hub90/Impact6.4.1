@@ -22,6 +22,22 @@
             "enable_follow_on_shop": true
           }
         },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "menu-principale",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_D8zrqr": {
+          "type": "links",
+          "settings": {
+            "menu": "mentions-l-gales",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -30,20 +46,13 @@
             "title": "Inscrivez-vous à notre newsletter",
             "content": ""
           }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
         }
       },
       "block_order": [
         "text",
-        "newsletter",
-        "links"
+        "links",
+        "links_D8zrqr",
+        "newsletter"
       ],
       "settings": {
         "show_social_media": true,
