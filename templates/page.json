@@ -19,35 +19,16 @@
     "slideshow_NxTHjd": {
       "type": "slideshow",
       "blocks": {
-        "image_GTWbzm": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "image_GLV6mC": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-12-08_a_15.49.33_090264d2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "L’histoire de Brich D’stock",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -61,7 +42,6 @@
         }
       },
       "block_order": [
-        "image_GTWbzm",
         "image_GLV6mC"
       ],
       "name": "Slideshow",
@@ -77,10 +57,34 @@
         "background": "#F2F2F2",
         "background_gradient": ""
       }
+    },
+    "rich_text_RTRTqE": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_cQgy7H": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Brich D’stock est née d’une conviction simple : la mode de qualité ne doit jamais être un luxe réservé à quelques-uns. En observant les prix élevés du prêt-à-porter premium et le volume immense de vêtements encore neufs voués au gaspillage, l’idée s’est imposée comme une évidence : créer une alternative accessible, responsable et élégante.<br/><br/>Notre mission commence là : démocratiser le luxe. Chez Brich D’stock, nous sélectionnons des pièces de créateurs, des fins de séries et du déstockage de grandes marques pour offrir à chacun la possibilité de s’habiller avec style, sans compromis sur la qualité — et sans se ruiner.<br/><br/>Plus qu’une boutique, Brich D’stock est un mouvement.<br/>Un mouvement qui encourage une mode plus consciente, plus durable et plus respectueuse de la planète. Chaque article que nous proposons est une seconde chance : celle d’éviter le gaspillage, celle de sublimer un vêtement oublié dans les stocks, et celle de permettre à nos clients d’accéder au meilleur, au juste prix.<br/><br/>Notre vision est claire :<br/>✨ Allier style, économie et responsabilité.<br/>✨ Redonner de la valeur aux vêtements.<br/>✨ Faire du déstockage une nouvelle façon élégante de consommer.<br/><br/>Aujourd’hui, Brich D’stock continue de grandir en restant fidèle à son identité :<br/>offrir du choix, de la qualité, et une expérience client simple et transparente.<br/>Avec chaque commande, vous contribuez à construire une mode plus belle, plus juste et plus durable.<br/><br/>Bienvenue dans l’univers Brich D’stock —<br/>Le luxe accessible, responsable, et fait pour durer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_cQgy7H"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_NxTHjd"
+    "slideshow_NxTHjd",
+    "rich_text_RTRTqE"
   ]
 }
