@@ -253,10 +253,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Sabrina M.",
+            "title": "",
+            "content": "<p>Très bonne qualité ! J’ai commandé un pull et un jean, je ne m’attendais pas à une qualité aussi top pour ce prix. Je recommanderai sans hésiter.</p>"
           }
         },
         "testimonial_Da9eTX": {
@@ -265,9 +265,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Karim D.",
+            "title": "",
+            "content": "<p>Livraison rapide.” Commande reçue en 3 jours, bien emballée. Les vêtements sont neufs et exactement comme sur les photos.</p>"
           }
         },
         "testimonial_FBADgd": {
@@ -276,9 +276,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Aminata L.",
+            "title": "",
+            "content": "<p>Service client au top.” J’avais un doute sur une taille, ils m’ont répondu rapidement et m’ont bien conseillé. Résultat : tout me va parfaitement !</p>"
           }
         }
       },
