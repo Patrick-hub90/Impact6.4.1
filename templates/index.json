@@ -106,28 +106,16 @@
             "gradient": ""
           }
         },
-        "richtext_nPbVH7": {
+        "richtext_eyfj4f": {
           "type": "richtext",
           "settings": {
             "content": "<p>Nous mettons l'accent sur la qualité, l'authenticité et la satisfaction de nos clients.</p>"
-          }
-        },
-        "button_XWJ7XQ": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "Voir plus",
-            "url": "",
-            "background": "#c9a876",
-            "text_color": ""
           }
         }
       },
       "block_order": [
         "heading_XUwRwr",
-        "richtext_nPbVH7",
-        "button_XWJ7XQ"
+        "richtext_eyfj4f"
       ],
       "name": "Rich text",
       "settings": {
