@@ -245,6 +245,66 @@
         "product_card_text_color": ""
       }
     },
+    "testimonials_h7JMbm": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_iK3e6d": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_Da9eTX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_FBADgd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_iK3e6d",
+        "testimonial_Da9eTX",
+        "testimonial_FBADgd"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "text_with_icons_MdUtaQ": {
       "type": "text-with-icons",
       "blocks": {
@@ -386,6 +446,7 @@
     "rich_text_ezBaJQ",
     "collection_list_adCaxd",
     "featured_collection_EQewyp",
+    "testimonials_h7JMbm",
     "text_with_icons_MdUtaQ",
     "faq"
   ]
