@@ -326,15 +326,15 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Les commandes sont traitées sous 1 à 2 jours ouvrés. La livraison en France métropolitaine prend généralement 3 à 5 jours ouvrés.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Puis-je suivre ma commande ?",
+            "content": "<p>Oui, un numéro de suivi vous sera envoyé dès l’expédition pour suivre votre colis en temps réel.</p>"
           }
         },
         "166442457738b23caf-2": {
@@ -354,7 +354,7 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
