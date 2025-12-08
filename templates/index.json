@@ -301,7 +301,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#ffffff",
         "testimonial_card_text_color": ""
       }
     },
