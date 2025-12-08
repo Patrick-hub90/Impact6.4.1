@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1601.jpg",
+            "image": "shopify://shop_images/homme-et-femme-dans-les-rues-de-paris-devant-la-tour-eiffel-faisant-une-pause-pour-un-v-tement-de-marque_028bd89e-aeb1-4c67-95b6-937b29fce621.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -32,16 +32,60 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_76bwrJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1607.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Pièces neuves de créateurs européens jusqu'à -70%",
+            "heading_tag": "h3",
+            "button_text": "Shopper maintenant",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#c9a876",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 22,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_Y4TBL6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1606.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Le style sans se ruiner jusqu'à -70%",
+            "heading_tag": "h0",
+            "button_text": "En savoir plus",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#c9a876",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "slide-1"
+        "slide-1",
+        "image_76bwrJ",
+        "image_Y4TBL6"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "show_initial_transition": false,
-        "image_size": "auto",
+        "image_size": "md",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
@@ -56,7 +100,7 @@
         "heading_XUwRwr": {
           "type": "heading",
           "settings": {
-            "text": "Achetez en Toute Confiance",
+            "text": "Sublimez votre dessing",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
