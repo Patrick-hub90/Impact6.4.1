@@ -86,7 +86,7 @@
         "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "md",
-        "controls_type": "numbers",
+        "controls_type": "none",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
@@ -317,8 +317,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison gratuite",
-            "content": "<p>Livraison gratuite dans le monde entier</p>"
+            "title": "Livraison gratuite à partir de 50€",
+            "content": "<p>Passez des commandes jusqu'à 50€<br/>pour profiter de la livraison gratuite.</p>"
           }
         },
         "item_pVUWkM": {
