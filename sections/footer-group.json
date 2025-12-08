@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Notre Mission",
+            "content": "<p>Chez Brich Destockage, nous croyons que la mode de qualité ne doit pas être réservée aux élites. Notre mission est de rendre le luxe accessible tout en respectant la planète.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -30,20 +38,12 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Notre Mission",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
+        "text",
         "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
         "show_social_media": true,
