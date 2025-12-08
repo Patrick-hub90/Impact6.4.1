@@ -340,15 +340,23 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Puis-je retourner un article si je change d’avis ?",
+            "content": "<p>Oui, vous disposez de 14 jours après réception pour retourner un produit non porté et non lavé.</p>"
+          }
+        },
+        "item_LjVPcb": {
+          "type": "item",
+          "settings": {
+            "title": "Comment procéder pour un retour ou un échange ?",
+            "content": "<p>Contactez notre service client via le formulaire ou par e-mail. Nous vous fournirons les instructions et l’étiquette de retour.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_LjVPcb"
       ],
       "settings": {
         "full_width": false,
@@ -356,8 +364,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
