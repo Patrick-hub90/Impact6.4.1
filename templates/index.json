@@ -15,14 +15,14 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-12-07_a_15.50.02_3e901fa1.jpg",
+            "image": "shopify://shop_images/IMG_1601.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Le Luxe d'une Seconde Vie. Jusqu'à -70%.",
+            "title": "La mode parisienne à prix déstockés jusqu' à -70%",
             "heading_tag": "h2",
-            "button_text": "Découvrez la collection",
+            "button_text": "Découvrir",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#c9a876",
