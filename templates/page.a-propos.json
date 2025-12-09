@@ -22,31 +22,12 @@
         "image_78Ypef": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_rlcw2irlcw2irlcw_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_ALMDmR": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
+            "subheading": "La qualité des grandes marques n'est plus un privilège.",
+            "title": "Le Luxe Démocratisé.",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -61,8 +42,7 @@
         }
       },
       "block_order": [
-        "image_78Ypef",
-        "image_ALMDmR"
+        "image_78Ypef"
       ],
       "name": "Slideshow",
       "settings": {
