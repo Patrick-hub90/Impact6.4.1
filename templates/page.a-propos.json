@@ -16,19 +16,38 @@
         "content_width": "80ch"
       }
     },
-    "slideshow_NxTHjd": {
+    "slideshow_mP7pjE": {
       "type": "slideshow",
       "blocks": {
-        "image_GLV6mC": {
+        "image_78Ypef": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-12-08_a_15.49.33_090264d2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "L’histoire de Brich D’stock",
-            "heading_tag": "h3",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_ALMDmR": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -42,12 +61,13 @@
         }
       },
       "block_order": [
-        "image_GLV6mC"
+        "image_78Ypef",
+        "image_ALMDmR"
       ],
       "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "dots",
@@ -56,6 +76,41 @@
         "cycle_speed": 6,
         "background": "#F2F2F2",
         "background_gradient": ""
+      }
+    },
+    "media_with_text_JnxqKW": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_69Ukk4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/la-m-me-image-mais-sans-les-d-chets-au-sol.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_69Ukk4"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "rich_text_RTRTqE": {
@@ -84,7 +139,8 @@
   },
   "order": [
     "main",
-    "slideshow_NxTHjd",
+    "slideshow_mP7pjE",
+    "media_with_text_JnxqKW",
     "rich_text_RTRTqE"
   ]
 }
