@@ -84,19 +84,64 @@
         "image_69Ukk4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_k7htwnk7htwnk7ht_2_7f1cba55-bffe-4e52-9a43-0c7223b644ef.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "L’Élégance Accessible",
+            "content": "<p>Brich D’stock est née d’une conviction forte : la qualité ne devrait jamais être un luxe réservé à quelques-uns. Nous brisons les codes en sélectionnant rigoureusement des pièces de créateurs et des fins de séries de grandes marques. Notre mission ? Vous offrir le style et l'excellence du prêt-à-porter, sans compromis et à prix juste.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_NzeJtJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_k7htwnk7htwnk7ht_2.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Une Mode Responsable",
+            "content": "<p>Plus qu’une simple boutique, nous sommes un mouvement contre le gaspillage. Chaque vêtement proposé est une seconde chance donnée à des stocks dormants d'éviter la destruction. En choisissant Brich D’stock, vous adoptez une consommation consciente et durable, prouvant qu'il est possible de s'habiller avec classe tout en respectant la planète.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_XfQRWm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_k7htwnk7htwnk7ht_2.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "L’Élégance Accessible",
+            "content": "<p>Brich D’stock est née d’une conviction forte : la qualité ne devrait jamais être un luxe réservé à quelques-uns. Nous brisons les codes en sélectionnant rigoureusement des pièces de créateurs et des fins de séries de grandes marques. Notre mission ? Vous offrir le style et l'excellence du prêt-à-porter, sans compromis et à prix juste.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -104,42 +149,20 @@
         }
       },
       "block_order": [
-        "image_69Ukk4"
+        "image_69Ukk4",
+        "image_NzeJtJ",
+        "image_XfQRWm"
       ],
       "name": "Media with text",
       "settings": {
         "full_width": true,
-        "spacing": "small"
-      }
-    },
-    "rich_text_RTRTqE": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_cQgy7H": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Brich D’stock est née d’une conviction simple : la mode de qualité ne doit jamais être un luxe réservé à quelques-uns. En observant les prix élevés du prêt-à-porter premium et le volume immense de vêtements encore neufs voués au gaspillage, l’idée s’est imposée comme une évidence : créer une alternative accessible, responsable et élégante.<br/><br/>Notre mission commence là : démocratiser le luxe. Chez Brich D’stock, nous sélectionnons des pièces de créateurs, des fins de séries et du déstockage de grandes marques pour offrir à chacun la possibilité de s’habiller avec style, sans compromis sur la qualité — et sans se ruiner.<br/><br/>Plus qu’une boutique, Brich D’stock est un mouvement.<br/>Un mouvement qui encourage une mode plus consciente, plus durable et plus respectueuse de la planète. Chaque article que nous proposons est une seconde chance : celle d’éviter le gaspillage, celle de sublimer un vêtement oublié dans les stocks, et celle de permettre à nos clients d’accéder au meilleur, au juste prix.<br/><br/>Notre vision est claire :<br/>✨ Allier style, économie et responsabilité.<br/>✨ Redonner de la valeur aux vêtements.<br/>✨ Faire du déstockage une nouvelle façon élégante de consommer.<br/><br/>Aujourd’hui, Brich D’stock continue de grandir en restant fidèle à son identité :<br/>offrir du choix, de la qualité, et une expérience client simple et transparente.<br/>Avec chaque commande, vous contribuez à construire une mode plus belle, plus juste et plus durable.<br/><br/>Bienvenue dans l’univers Brich D’stock —<br/>Le luxe accessible, responsable, et fait pour durer.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_cQgy7H"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "spacing": "none"
       }
     }
   },
   "order": [
     "main",
     "slideshow_mP7pjE",
-    "media_with_text_JnxqKW",
-    "rich_text_RTRTqE"
+    "media_with_text_JnxqKW"
   ]
 }
