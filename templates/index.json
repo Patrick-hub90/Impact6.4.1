@@ -12,27 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "image_Y4TBL6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/cest-du-destockage.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Le style sans se ruiner jusqu'à -70%",
-            "heading_tag": "h3",
-            "button_text": "En savoir plus",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#c9a876",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "slide-1": {
           "type": "image",
           "settings": {
@@ -74,12 +53,33 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_Y4TBL6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_zbjjgwzbjjgwzbjj_6027d75b-d40a-45ec-9e2a-22b2a7d27ef0.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Le style sans se ruiner jusqu'à -70%",
+            "heading_tag": "h3",
+            "button_text": "En savoir plus",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#c9a876",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "image_Y4TBL6",
         "slide-1",
-        "image_76bwrJ"
+        "image_76bwrJ",
+        "image_Y4TBL6"
       ],
       "settings": {
         "full_width": true,

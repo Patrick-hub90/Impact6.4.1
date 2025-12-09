@@ -84,7 +84,6 @@
         "image_69Ukk4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/la-m-me-image-mais-sans-les-d-chets-au-sol.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -95,9 +94,9 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#ffffff",
+            "background": "#000000",
             "background_gradient": "",
-            "text_color": "#1a1a1a",
+            "text_color": "#ffffff",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -110,7 +109,7 @@
       "name": "Media with text",
       "settings": {
         "full_width": true,
-        "spacing": "none"
+        "spacing": "small"
       }
     },
     "rich_text_RTRTqE": {
