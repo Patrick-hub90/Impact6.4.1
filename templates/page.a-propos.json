@@ -117,13 +117,13 @@
             "subheading": "",
             "title": "Votre Style, Notre Vision",
             "content": "<p>Nous allions économie, transparence et esthétique pour une expérience client simplifiée. Notre vision est de faire du déstockage une nouvelle façon élégante de consommer. Rejoignez l'univers Brich D’stock pour construire, commande après commande, une mode plus belle, plus juste et faite pour durer.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Découvrez nos collections",
+            "link_url": "shopify://collections",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#c9a876",
             "button_text_color": ""
           }
         }
