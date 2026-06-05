@@ -1,0 +1,296 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_G3f8Mj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rasez facilement vos aisselles, vos cheveux, poitrines, barbes, parties intimes, tout le corps pour rester propre et hygiénique tous les jours.</p>"
+          }
+        },
+        "easysell_cod_form_app_block_9TQPDU": {
+          "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
+          "settings": {
+            "product": ""
+          }
+        },
+        "collapsible_text_r6BJAW": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Que contient le box ?",
+            "content": "<p>Rasoir électrique 5 en 1<br/>- Accessoire de lame rotative ScalpSafe<br/>- Câble de chargement USB<br/>- Accessoire de tondeuse de précision<br/>- Accessoire de tondeuse nez et oreilles<br/>- Accessoire brosse exfoliante<br/>- Accessoire de nettoyage du cuir chevelu<br/>- Brosse de nettoyage micrométrique<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "text_G3f8Mj",
+        "easysell_cod_form_app_block_9TQPDU",
+        "collapsible_text_r6BJAW"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_U7zkAz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EUhCYT": {
+          "type": "heading",
+          "settings": {
+            "text": "⚠️ Tester le rasoir avant de payer le livreur.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_DweKnW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>À la livraison, vous pouvez vérifier le produit avant de payer. C’est rassurant et sans mauvaise surprise.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EUhCYT",
+        "richtext_DweKnW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_NgXRTP": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/0521(6).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_yBDLkK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6twPkA": {
+          "type": "heading",
+          "settings": {
+            "text": "Restez propre et net chaque jour, sans effort",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_fq3RAQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Que ce soit pour les aisselles, le torse, les jambes ou les zones difficiles, vous <strong>obtenez un ensemble d'outils concu pour laisser une peau parfaitement lisse</strong>. Il vous aide à enlever les poils rapidement, et proprement sans causé de bouton.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6twPkA",
+        "richtext_fq3RAQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_DVTrxy": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/0521(9).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_kzRLQP": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/5_c91203a8-0005-4618-8ab1-647362a07db9.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_d8pD8T": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3DCNaa": {
+          "type": "heading",
+          "settings": {
+            "text": "Atteignez facilement les zones difficiles",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_F7kjHg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Grâce à ses differentes têtes adaptées aux formes du corps, le rasoir permet de raser les zones moins faciles d’accès avec plus de confort. Vous n’avez plus besoin de forcer, de repasser plusieurs fois ou d’utiliser plusieurs outils différents.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3DCNaa",
+        "richtext_F7kjHg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "video_qaRfGF": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/0521(7).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_tPzjWf": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Hc7220daebce94abe9a30be9df43e4557k.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_MFJzM8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JeqzJP": {
+          "type": "heading",
+          "settings": {
+            "text": "Un seul appareil pour entretenir tout le corps",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_zYwQAr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Plus besoin d’acheter plusieurs accessoires séparés. Ce rasoir 5-en-1 vous permet de raser, tailler, nettoyer et entretenir différentes parties du corps avec le même appareil.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JeqzJP",
+        "richtext_zYwQAr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_U7zkAz",
+    "video_NgXRTP",
+    "rich_text_yBDLkK",
+    "video_DVTrxy",
+    "image_with_text_overlay_kzRLQP",
+    "rich_text_d8pD8T",
+    "video_qaRfGF",
+    "image_with_text_overlay_tPzjWf",
+    "rich_text_MFJzM8"
+  ]
+}
