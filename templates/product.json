@@ -1,1 +1,279 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{}},"badges":{"type":"badges","settings":{}},"price":{"type":"price","settings":{}},"rating":{"type":"rating","settings":{}},"payment_terms":{"type":"payment_terms","settings":{}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}},"pickup_availability":{"type":"pickup_availability","settings":{}}},"block_order":["vendor","title","badges","price","rating","payment_terms","separator","description","variant_picker","quantity_selector","buy_buttons"],"settings":{}},"related-products":{"type":"related-products","settings":{}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "text_3ECXUU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.cortex.subtitle | metafield_tag }}</p>"
+          }
+        },
+        "easysell_cod_form_app_block_n6DNWM": {
+          "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "separator",
+        "text_3ECXUU",
+        "easysell_cod_form_app_block_n6DNWM"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_xVfFQC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zQYH87": {
+          "type": "heading",
+          "settings": {
+            "text": "{{ product.metafields.cortex.promise_title.value }}",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FBPf8w": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zQYH87",
+        "richtext_FBPf8w"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_KXt4V3": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AyqAQ4": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.cortex.section_1_image.value }}",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "{{ product.metafields.cortex.section_1_title.value }}",
+            "content": "<p>{{ product.metafields.cortex.section_1_paragraph | metafield_tag }}</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AyqAQ4"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_TBMH6z": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_WyNaLq": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.cortex.section_2_image.value }}",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "{{ product.metafields.cortex.section_2_title.value }}",
+            "content": "<p>{{ product.metafields.cortex.section_2_paragraph | metafield_tag }}</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_WyNaLq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_hk8hLK": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MGCKVf": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.cortex.section_3_image.value }}",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "{{ product.metafields.cortex.section_3_title.value }}",
+            "content": "<p>{{ product.metafields.cortex.section_3_paragraph | metafield_tag }}</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MGCKVf"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "faq_GWq7dD": {
+      "type": "faq",
+      "blocks": {
+        "item_yke9d3": {
+          "type": "item",
+          "settings": {
+            "title": "{{ product.metafields.cortex.faq_1_question.value }}",
+            "content": "<p>{{ product.metafields.cortex.faq_1_answer | metafield_tag }}</p>"
+          }
+        },
+        "item_KqWzwR": {
+          "type": "item",
+          "settings": {
+            "title": "{{ product.metafields.cortex.faq_2_question.value }}",
+            "content": "<p>{{ product.metafields.cortex.faq_2_answer | metafield_tag }}</p>"
+          }
+        },
+        "item_wr8BUA": {
+          "type": "item",
+          "settings": {
+            "title": "{{ product.metafields.cortex.faq_3_question.value }}",
+            "content": "<p>{{ product.metafields.cortex.faq_3_answer | metafield_tag }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yke9d3",
+        "item_KqWzwR",
+        "item_wr8BUA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Avez-vous des questions ?</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_xVfFQC",
+    "media_with_text_KXt4V3",
+    "media_with_text_TBMH6z",
+    "media_with_text_hk8hLK",
+    "faq_GWq7dD"
+  ]
+}
