@@ -12,62 +12,20 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_fo894nfo894nfo89_2d8610f4-f37f-447e-bdb0-af5976270c37.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "La mode parisienne à prix déstockés jusqu' à -70%",
-            "heading_tag": "h3",
-            "button_text": "Découvrir",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#c9a876",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 9,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_76bwrJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_f88zjmf88zjmf88z_1de58bef-37ed-439b-a136-b87157c66a3c.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Pièces neuves de créateurs européens jusqu'à -70%",
-            "heading_tag": "h3",
-            "button_text": "Shopper maintenant",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#c9a876",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 22,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "image_Y4TBL6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_zbjjgwzbjjgwzbjj_6027d75b-d40a-45ec-9e2a-22b2a7d27ef0.png",
+            "image": "shopify://shop_images/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Le style sans se ruiner jusqu'à -70%",
+            "title": "NOSHOP, testez avant de payer. 100% sans risque.",
             "heading_tag": "h3",
-            "button_text": "En savoir plus",
+            "button_text": "Consultez notre catalogue",
             "button_link": "",
             "text_color": "#ffffff",
-            "button_background": "#c9a876",
+            "button_background": "#f83a3a",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
@@ -77,8 +35,6 @@
         }
       },
       "block_order": [
-        "slide-1",
-        "image_76bwrJ",
         "image_Y4TBL6"
       ],
       "settings": {
@@ -94,137 +50,12 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "rich_text_ezBaJQ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XUwRwr": {
-          "type": "heading",
-          "settings": {
-            "text": "Sublimez votre dressing",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_eyfj4f": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>Nous mettons l'accent sur la qualité, l'authenticité et la satisfaction de nos clients.</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XUwRwr",
-        "richtext_eyfj4f"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "collection_list_adCaxd": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_EthJii": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/IMG_1601_5ce632fa-0982-4e41-a97d-98d4f8f8ed39.jpg",
-            "subheading": "",
-            "title": "Collection Homme",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_CqLCDC": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/IMG_1603_98431a93-9298-4a2c-8ae6-a205ddcc373a.jpg",
-            "subheading": "",
-            "title": "Collection Femme",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_JtiTHj": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/IMG_1605_b4794dff-68a3-4d0f-9d75-c7c220899333.jpg",
-            "subheading": "",
-            "title": "Collection Accessoire",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_3QCEz7": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/IMG_1604_4a7b33df-a3bc-4ff2-999c-7f6b79f0e969.jpg",
-            "subheading": "",
-            "title": "Arrivage de la semaine",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_EthJii",
-        "collection_CqLCDC",
-        "collection_JtiTHj",
-        "collection_3QCEz7"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "2",
-        "collections_per_row": 4,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Nos collections",
-        "content": "<p>Jusqu'à -70% sur les pièces les plus convoitées.</p>",
-        "link_url": "",
-        "link_text": "",
-        "background": "#f0f0f0",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "featured_collection_EQewyp": {
+    "featured_collection_XM4pR9": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "jean-marc-1960",
-          "pull-over-chevraulet"
-        ],
+        "collection": "frontpage",
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -232,11 +63,11 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Best-Seller",
+        "title": "Nos produits",
         "content": "",
         "link_url": "",
-        "link_text": "Voir tout",
-        "background": "#ffffff",
+        "link_text": "Voir tous",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -244,210 +75,10 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "testimonials_h7JMbm": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_iK3e6d": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sabrina M.",
-            "title": "",
-            "content": "<p>Très bonne qualité ! J’ai commandé un pull et un jean, je ne m’attendais pas à une qualité aussi top pour ce prix. Je recommanderai sans hésiter.</p>"
-          }
-        },
-        "testimonial_Da9eTX": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Karim D.",
-            "title": "",
-            "content": "<p>Livraison rapide.” Commande reçue en 3 jours, bien emballée. Les vêtements sont neufs et exactement comme sur les photos.</p>"
-          }
-        },
-        "testimonial_FBADgd": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Aminata L.",
-            "title": "",
-            "content": "<p>Service client au top.” J’avais un doute sur une taille, ils m’ont répondu rapidement et m’ont bien conseillé. Résultat : tout me va parfaitement !</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_iK3e6d",
-        "testimonial_Da9eTX",
-        "testimonial_FBADgd"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Nos clients",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": ""
-      }
-    },
-    "text_with_icons_MdUtaQ": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_HPxeDf": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Livraison gratuite à partir de 50€",
-            "content": "<p>Passez des commandes jusqu'à 50€<br/>pour profiter de la livraison gratuite.</p>"
-          }
-        },
-        "item_pVUWkM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Garantie Satisfait ou Remboursé",
-            "content": "<p>Retours sous 14 jours</p>"
-          }
-        },
-        "item_fzbr6w": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Service client",
-            "content": "<p>Envoyez-nous un e-mail à contactbrichdstock@gmail.com</p>"
-          }
-        },
-        "item_XaA37e": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-credit-card",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Paiment sécurisé",
-            "content": "<p>Vos informations de paiement sont traitées de manière sécurisée.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_HPxeDf",
-        "item_pVUWkM",
-        "item_fzbr6w",
-        "item_XaA37e"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Les commandes sont traitées sous 1 à 2 jours ouvrés. La livraison en France métropolitaine prend généralement 3 à 5 jours ouvrés.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je suivre ma commande ?",
-            "content": "<p>Oui, un numéro de suivi vous sera envoyé dès l’expédition pour suivre votre colis en temps réel.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je retourner un article si je change d’avis ?",
-            "content": "<p>Oui, vous disposez de 14 jours après réception pour retourner un produit non porté et non lavé.</p>"
-          }
-        },
-        "item_LjVPcb": {
-          "type": "item",
-          "settings": {
-            "title": "Comment procéder pour un retour ou un échange ?",
-            "content": "<p>Contactez notre service client via le formulaire ou par e-mail. Nous vous fournirons les instructions et l’étiquette de retour.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2",
-        "item_LjVPcb"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
     }
   },
   "order": [
     "slideshow",
-    "rich_text_ezBaJQ",
-    "collection_list_adCaxd",
-    "featured_collection_EQewyp",
-    "testimonials_h7JMbm",
-    "text_with_icons_MdUtaQ",
-    "faq"
+    "featured_collection_XM4pR9"
   ]
 }
