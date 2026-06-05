@@ -27,7 +27,7 @@
         "text_G3f8Mj": {
           "type": "text",
           "settings": {
-            "text": "<p>Rasez facilement vos aisselles, vos cheveux, poitrines, barbes, parties intimes, tout le corps pour rester propre et hygiénique tous les jours.</p>"
+            "text": "<p>Grâce à ses têtes adaptées, ce rasoir aide à couper les poils plus facilement, même dans les zones où un rasoir simple passe mal.</p><p>Que ce soit pour la <strong>barbe</strong>, les <strong>aisselles</strong>, le <strong>torse</strong>, les <strong>jambes</strong>, les <strong>cheveux </strong>ou les <strong>zones sensibles</strong>, vous avez l’accessoire qu’il faut pour entretenir votre corps proprement, sans perdre du temps.</p>"
           }
         },
         "easysell_cod_form_app_block_9TQPDU": {
@@ -40,7 +40,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Que contient le box ?",
-            "content": "<p>Rasoir électrique 5 en 1<br/>- Accessoire de lame rotative ScalpSafe<br/>- Câble de chargement USB<br/>- Accessoire de tondeuse de précision<br/>- Accessoire de tondeuse nez et oreilles<br/>- Accessoire brosse exfoliante<br/>- Accessoire de nettoyage du cuir chevelu<br/>- Brosse de nettoyage micrométrique<br/></p>",
+            "content": "<p>Rasoir électrique multifonction 5-en-1</p><ul><li>Tête de rasage principale</li><li>Tondeuse de précision</li><li>Tondeuse nez et oreilles</li><li>Brosse exfoliante</li><li>Accessoire de nettoyage du cuir chevelu</li><li>Câble de chargement USB</li><li>Brosse de nettoyage</li></ul>",
             "page": ""
           }
         }
@@ -111,7 +111,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "sm",
-        "video": "shopify://files/videos/0521(6).mp4",
+        "video": "shopify://files/videos/0521(9).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -124,7 +124,7 @@
         "heading_6twPkA": {
           "type": "heading",
           "settings": {
-            "text": "Restez propre et net chaque jour, sans effort",
+            "text": "Un rasage plus efficace, parce que chaque tête a son rôle",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -133,7 +133,7 @@
         "richtext_fq3RAQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Que ce soit pour les aisselles, le torse, les jambes ou les zones difficiles, vous <strong>obtenez un ensemble d'outils concu pour laisser une peau parfaitement lisse</strong>. Il vous aide à enlever les poils rapidement, et proprement sans causé de bouton.</p>"
+            "content": "<p>Un seul rasoir ne peut pas bien faire tout le travail si la tête n’est pas adaptée.<br/>C’est pour ça que ce modèle contient plusieurs accessoires : chaque tête est conçue pour une zone précise.<br/><br/>La tête principale permet de raser les grandes zones.<br/>La tondeuse de précision aide à mieux dessiner les contours.<br/>L’accessoire nez et oreilles permet de retirer les poils gênants proprement.<br/>La brosse aide à nettoyer et entretenir la peau ou le cuir chevelu.<br/><br/>Résultat : vous ne forcez pas avec un mauvais outil. Vous utilisez la bonne tête au bon endroit.</p>"
           }
         }
       },
@@ -159,7 +159,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "sm",
-        "video": "shopify://files/videos/0521(9).mp4",
+        "video": "shopify://files/videos/0521(6).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -188,7 +188,7 @@
         "heading_3DCNaa": {
           "type": "heading",
           "settings": {
-            "text": "Atteignez facilement les zones difficiles",
+            "text": "Un résultat propre sans repasser plusieurs fois",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -197,7 +197,7 @@
         "richtext_F7kjHg": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Grâce à ses differentes têtes adaptées aux formes du corps, le rasoir permet de raser les zones moins faciles d’accès avec plus de confort. Vous n’avez plus besoin de forcer, de repasser plusieurs fois ou d’utiliser plusieurs outils différents.</p>"
+            "content": "<p>Quand un rasoir n’est pas efficace, on est obligé de passer plusieurs fois au même endroit.<br/>Ça fait perdre du temps et ça peut irriter la peau.<br/><br/>Avec ce rasoir électrique, vous pouvez entretenir les poils plus facilement et obtenir un rendu plus net en moins d’effort. Il est pratique pour ceux qui veulent rester propres régulièrement, sans passer trop de temps devant le miroir.<br/><br/>C’est le genre d’appareil qu’on garde à proximité pour les retouches rapides avant de sortir, avant le travail, avant un rendez-vous ou après quelques jours sans rasage.</p>"
           }
         }
       },
@@ -252,7 +252,7 @@
         "heading_JeqzJP": {
           "type": "heading",
           "settings": {
-            "text": "Un seul appareil pour entretenir tout le corps",
+            "text": "Un seul appareil pour tout entretenir à la maison",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -261,7 +261,7 @@
         "richtext_zYwQAr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Plus besoin d’acheter plusieurs accessoires séparés. Ce rasoir 5-en-1 vous permet de raser, tailler, nettoyer et entretenir différentes parties du corps avec le même appareil.</p>"
+            "content": "<p>Plus besoin d’acheter plusieurs petits accessoires séparés.<br/>Ce rasoir 5-en-1 vous aide à gérer plusieurs besoins avec le même appareil : raser, tailler, nettoyer, corriger les contours et entretenir les zones difficiles.<br/><br/>Il est pratique pour garder une apparence propre au quotidien, même quand vous n’avez pas le temps d’aller chez le coiffeur ou d’utiliser plusieurs outils.<br/><br/>Vous chargez, vous choisissez la tête adaptée, vous rasez, puis vous nettoyez l’appareil.</p>"
           }
         }
       },
