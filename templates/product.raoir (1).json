@@ -33,14 +33,15 @@
         "easysell_cod_form_app_block_9TQPDU": {
           "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
           "settings": {
-            "product": ""
+            "product": "rasoir-electrique-multifonction-5-en-1-usb"
           }
         },
         "collapsible_text_r6BJAW": {
           "type": "collapsible_text",
           "settings": {
             "title": "Que contient le box ?",
-            "content": "<p>Rasoir électrique 5 en 1<br/>- Accessoire de lame rotative ScalpSafe<br/>- Câble de chargement USB<br/>- Accessoire de tondeuse de précision<br/>- Accessoire de tondeuse nez et oreilles<br/>- Accessoire brosse exfoliante<br/>- Accessoire de nettoyage du cuir chevelu<br/>- Brosse de nettoyage micrométrique<br/></p>"
+            "content": "<p>Rasoir électrique 5 en 1<br/>- Accessoire de lame rotative ScalpSafe<br/>- Câble de chargement USB<br/>- Accessoire de tondeuse de précision<br/>- Accessoire de tondeuse nez et oreilles<br/>- Accessoire brosse exfoliante<br/>- Accessoire de nettoyage du cuir chevelu<br/>- Brosse de nettoyage micrométrique<br/></p>",
+            "page": ""
           }
         }
       },
@@ -174,7 +175,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/5_c91203a8-0005-4618-8ab1-647362a07db9.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -239,7 +239,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Hc7220daebce94abe9a30be9df43e4557k.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
