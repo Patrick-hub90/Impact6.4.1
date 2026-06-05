@@ -27,7 +27,7 @@
         "text_G3f8Mj": {
           "type": "text",
           "settings": {
-            "text": "<p>Grâce à ses têtes adaptées, ce rasoir aide à couper les poils plus facilement, même dans les zones où un rasoir simple passe mal.</p><p>Que ce soit pour la <strong>barbe</strong>, les <strong>aisselles</strong>, le <strong>torse</strong>, les <strong>jambes</strong>, les <strong>cheveux </strong>ou les <strong>zones sensibles</strong>, vous avez l’accessoire qu’il faut pour entretenir votre corps proprement, sans perdre du temps.</p>"
+            "text": "<p>Que ce soit pour la <strong>barbe</strong>, les <strong>aisselles</strong>, le <strong>torse</strong>, les <strong>jambes</strong>, les <strong>cheveux </strong>ou les <strong>zones sensibles</strong>, vous avez l’accessoire qu’il faut pour entretenir votre corps proprement, sans perdre du temps.</p>"
           }
         },
         "easysell_cod_form_app_block_9TQPDU": {
@@ -133,7 +133,7 @@
         "richtext_fq3RAQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Un seul rasoir ne peut pas bien faire tout le travail si la tête n’est pas adaptée.<br/>C’est pour ça que ce modèle contient plusieurs accessoires : chaque tête est conçue pour une zone précise.<br/><br/>La tête principale permet de raser les grandes zones.<br/>La tondeuse de précision aide à mieux dessiner les contours.<br/>L’accessoire nez et oreilles permet de retirer les poils gênants proprement.<br/>La brosse aide à nettoyer et entretenir la peau ou le cuir chevelu.<br/><br/>Résultat : vous ne forcez pas avec un mauvais outil. Vous utilisez la bonne tête au bon endroit.</p>"
+            "content": "<p><br/>La <strong>tête principale</strong> permet de raser les grandes zones.<br/>La <strong>tondeuse de précision</strong> aide à mieux dessiner les contours.<br/>L’<strong>accessoire nez et oreilles</strong> permet de retirer les poils gênants proprement.<br/>La <strong>brosse </strong>aide à nettoyer et entretenir la peau ou le cuir chevelu.</p>"
           }
         }
       },
