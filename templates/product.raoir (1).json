@@ -197,7 +197,7 @@
         "richtext_F7kjHg": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Quand un rasoir n’est pas efficace, on est obligé de passer plusieurs fois au même endroit.<br/>Ça fait perdre du temps et ça peut irriter la peau.<br/><br/>Avec ce rasoir électrique, vous pouvez entretenir les poils plus facilement et obtenir un rendu plus net en moins d’effort. Il est pratique pour ceux qui veulent rester propres régulièrement, sans passer trop de temps devant le miroir.<br/><br/>C’est le genre d’appareil qu’on garde à proximité pour les retouches rapides avant de sortir, avant le travail, avant un rendez-vous ou après quelques jours sans rasage.</p>"
+            "content": "<p>Avec ce rasoir électrique, vous pouvez entretenir<strong> les poils plus facilement et obtenir un rendu plus net en moins d’effort.</strong> Il est pratique pour ceux qui veulent rester propres régulièrement, sans passer trop de temps devant le miroir.<br/><br/>C’est le genre d’appareil qu’on garde à proximité pour les <strong>retouches rapides avant de sortir</strong>, <strong>avant le travail</strong>, <strong>avant un rendez-vous ou après quelques jours sans rasage.</strong></p>"
           }
         }
       },
@@ -210,9 +210,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#1a1a1a",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "video_qaRfGF": {
@@ -261,7 +261,7 @@
         "richtext_zYwQAr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Plus besoin d’acheter plusieurs petits accessoires séparés.<br/>Ce rasoir 5-en-1 vous aide à gérer plusieurs besoins avec le même appareil : raser, tailler, nettoyer, corriger les contours et entretenir les zones difficiles.<br/><br/>Il est pratique pour garder une apparence propre au quotidien, même quand vous n’avez pas le temps d’aller chez le coiffeur ou d’utiliser plusieurs outils.<br/><br/>Vous chargez, vous choisissez la tête adaptée, vous rasez, puis vous nettoyez l’appareil.</p>"
+            "content": "<p>Plus besoin d’acheter plusieurs petits accessoires séparés.<br/>Ce rasoir 5-en-1 vous aide à gérer plusieurs besoins avec le même appareil : <strong>raser</strong>, <strong>tailler</strong>, <strong>nettoyer</strong>, <strong>corriger les contours </strong>et <strong>entretenir les zones difficiles.</strong><br/></p>"
           }
         }
       },
@@ -274,9 +274,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#000000"
       }
     }
   },
