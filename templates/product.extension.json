@@ -55,10 +55,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "easysell_cod_form_app_block_fYNnyT": {
           "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
           "settings": {
@@ -74,7 +70,6 @@
         "separator",
         "description",
         "variant_picker",
-        "quantity_selector",
         "easysell_cod_form_app_block_fYNnyT"
       ],
       "settings": {
@@ -121,16 +116,17 @@
         "text_color": ""
       }
     },
-    "video_g9agQm": {
-      "type": "video",
-      "name": "Video",
+    "image_with_text_overlay_dBc9kj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/0913.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/BGCAGFC53VHPXDVHHQ63ICF424.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -158,6 +154,54 @@
       "block_order": [
         "heading_HXCJjJ",
         "richtext_UArbRw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_g9agQm": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0913.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_CXTKJG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MiKaDD": {
+          "type": "heading",
+          "settings": {
+            "text": "Réduit les sensations d'éjaculation",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_HAz6Yb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Grâce à sa conception qui ajoute une <strong>couche de confort</strong> et de protection, ce manchon peut aider à modifier les sensations ressenties pendant les rapports. Il réduit l’intensité directe des <strong>stimulations  </strong>permettant ainsi une <strong>meilleure </strong>gestion du rythme  et  des rapports de <strong>longue durée</strong>. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MiKaDD",
+        "richtext_HAz6Yb"
       ],
       "name": "Rich text",
       "settings": {
@@ -206,55 +250,6 @@
       "block_order": [
         "heading_kjhAU4",
         "richtext_9LBBTy"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_dBc9kj": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/BGCAGFC53VHPXDVHHQ63ICF424.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_CXTKJG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MiKaDD": {
-          "type": "heading",
-          "settings": {
-            "text": "Réduit les sensations d'éjaculation",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_HAz6Yb": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Grâce à sa conception qui ajoute une <strong>couche de confort</strong> et de protection, ce manchon peut aider à modifier les sensations ressenties pendant les rapports. Il réduit l’intensité directe des <strong>stimulations  </strong>permettant ainsi une <strong>meilleure </strong>gestion du rythme  et  des rapports de <strong>longue durée</strong>. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_MiKaDD",
-        "richtext_HAz6Yb"
       ],
       "name": "Rich text",
       "settings": {
