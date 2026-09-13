@@ -169,61 +169,29 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_Q7cET3": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_NcrC6Y": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_dxPHmf": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_xFVfKh": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_NcrC6Y",
-        "heading_dxPHmf",
-        "richtext_xFVfKh"
-      ],
-      "name": "Image with text overlay",
+    "video_P6M8dh": {
+      "type": "video",
+      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0913(1).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_yNTcTn": {
       "type": "rich-text",
       "blocks": {
-        "subheading_pLH4QE": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_kjhAU4": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Une sensation de peau grâce au silicone",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -231,14 +199,62 @@
         "richtext_9LBBTy": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Fabriqué en silicone souple , cette enveloppe offre la texture d’une <strong>peau naturelle</strong> et est  agréable au toucher. Son élasticité s'adapte à la forme de votre sexe en érection.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_pLH4QE",
         "heading_kjhAU4",
         "richtext_9LBBTy"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_dBc9kj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/BGCAGFC53VHPXDVHHQ63ICF424.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_CXTKJG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MiKaDD": {
+          "type": "heading",
+          "settings": {
+            "text": "Réduit les sensations d'éjaculation",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_HAz6Yb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Grâce à sa conception qui ajoute une <strong>couche de confort</strong> et de protection, ce manchon peut aider à modifier les sensations ressenties pendant les rapports. Il réduit l’intensité directe des <strong>stimulations  </strong>permettant ainsi une <strong>meilleure </strong>gestion du rythme  et  des rapports de <strong>longue durée</strong>. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MiKaDD",
+        "richtext_HAz6Yb"
       ],
       "name": "Rich text",
       "settings": {
@@ -254,9 +270,11 @@
   "order": [
     "main",
     "rich_text_F3LPEa",
-    "video_g9agQm",
+    "image_with_text_overlay_dBc9kj",
     "rich_text_PaWgWR",
-    "image_with_text_overlay_Q7cET3",
+    "video_g9agQm",
+    "rich_text_CXTKJG",
+    "video_P6M8dh",
     "rich_text_yNTcTn"
   ]
 }
