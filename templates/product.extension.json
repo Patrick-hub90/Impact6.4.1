@@ -12,13 +12,17 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "text_hLJDQd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dimensions adaptés en érection:</strong><br/>Longueur Minimal: 14,2 cm <br/>Diametre Minimal: 3,7 cm</p>"
+          }
         },
         "badges": {
           "type": "badges",
@@ -26,55 +30,53 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "show_taxes_notice": false
+          }
         },
         "rating": {
           "type": "rating",
-          "settings": {}
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
+          "settings": {
+            "show_empty": false
+          }
         },
         "separator": {
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {}
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
+        "easysell_cod_form_app_block_BmFjQX": {
+          "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
+          "settings": {
+            "product": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "text_hLJDQd",
         "badges",
         "price",
         "rating",
-        "payment_terms",
         "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "easysell_cod_form_app_block_BmFjQX"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
