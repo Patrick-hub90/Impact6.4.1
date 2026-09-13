@@ -12,13 +12,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_tag": "h2"
+          }
         },
         "badges": {
           "type": "badges",
@@ -26,15 +24,15 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "show_taxes_notice": false
+          }
         },
         "rating": {
           "type": "rating",
-          "settings": {}
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
+          "settings": {
+            "show_empty": false
+          }
         },
         "separator": {
           "type": "separator",
@@ -42,42 +40,140 @@
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "collapse_content": false
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": {}
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {}
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
+        "easysell_cod_form_app_block_fYNnyT": {
+          "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
+          "settings": {
+            "product": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
         "rating",
-        "payment_terms",
         "separator",
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "easysell_cod_form_app_block_fYNnyT"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_F3LPEa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_e4Qf4H": {
+          "type": "heading",
+          "settings": {
+            "text": "Ne faites plus l'amour à votre partenaire avec la même grosseur.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_e4Qf4H"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_g9agQm": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0913.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_PaWgWR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HXCJjJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Un sexe plus gros qu'avant .....",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_UArbRw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Ce manchon pénien est conçu pour ajouter une couche de <strong>volume </strong>autour du pénis, créant une apparence <strong>plus épaisse</strong> et une sensation différente pendant les rapports.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HXCJjJ",
+        "richtext_UArbRw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_F3LPEa",
+    "video_g9agQm",
+    "rich_text_PaWgWR"
   ]
 }
