@@ -66,7 +66,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -77,9 +77,187 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "rich_text_RwXp9d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aRpf9g": {
+          "type": "heading",
+          "settings": {
+            "text": "Ne faites plus l'amour à votre partenaire avec un petit bangala.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_aRpf9g"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_tMEBpV": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/BGCAGFC53VHPXDVHHQ63ICF424.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_XWKEEk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QHzERp": {
+          "type": "heading",
+          "settings": {
+            "text": "Un sexe plus gros qu'avant .....",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Cdb4Er": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Ce manchon pénien est conçu pour ajouter une couche de <strong>volume </strong>autour du pénis, créant une apparence <strong>plus épaisse</strong> et une sensation différente pendant les rapports.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QHzERp",
+        "richtext_Cdb4Er"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_xbg7fh": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0913.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_tQ6Fah": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zpjy6T": {
+          "type": "heading",
+          "settings": {
+            "text": "Réduit les sensations d'éjaculation",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Br6mjh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Grâce à sa conception qui ajoute une <strong>couche de confort</strong> et de protection, ce manchon peut aider à modifier les sensations ressenties pendant les rapports. Il réduit l’intensité directe des <strong>stimulations  </strong>permettant ainsi une <strong>meilleure </strong>gestion du rythme  et  des rapports de <strong>longue durée</strong>. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zpjy6T",
+        "richtext_Br6mjh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_yFqDYm": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0913(1).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_qNCeYd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LhYwmN": {
+          "type": "heading",
+          "settings": {
+            "text": "Une sensation de peau grâce au silicone",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_mEntp4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Fabriqué en silicone souple , cette enveloppe offre la texture d’une <strong>peau naturelle</strong> et est  agréable au toucher. Son élasticité s'adapte à la forme de votre sexe en érection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LhYwmN",
+        "richtext_mEntp4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_RwXp9d",
+    "image_with_text_overlay_tMEBpV",
+    "rich_text_XWKEEk",
+    "video_xbg7fh",
+    "rich_text_tQ6Fah",
+    "video_yFqDYm",
+    "rich_text_qNCeYd"
   ]
 }
