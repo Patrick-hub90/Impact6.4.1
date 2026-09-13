@@ -18,6 +18,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_CkFpTY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dimensions adaptés en érection:</strong><br/>Longueur Minimal: 14,2 cm <br/>Diametre Minimal: 3,7 cm</p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -64,6 +70,7 @@
       },
       "block_order": [
         "title",
+        "text_CkFpTY",
         "badges",
         "price",
         "rating",
