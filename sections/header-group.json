@@ -11,6 +11,18 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "pixel_noshop": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "{% render 'noshop-pixel' %}",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -64,6 +76,7 @@
     }
   },
   "order": [
+    "pixel_noshop",
     "announcement-bar",
     "header"
   ]
