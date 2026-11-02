@@ -21,7 +21,7 @@
         "text_promesse": {
           "type": "text",
           "settings": {
-            "text": "<p>💵 <strong>Paiement à la livraison</strong> · 🚚 <strong>Livraison gratuite à Dakar en moins de 2 h</strong> · 🎁 <strong>Idée cadeau</strong></p>"
+            "text": "<p>💵 <strong>Paiement à la livraison</strong> · 🚚 <strong>Livraison gratuite à Abidjan en moins de 2 h</strong> · 🎁 <strong>Idée cadeau</strong></p>"
           }
         },
         "price": {
@@ -34,16 +34,14 @@
           "type": "separator",
           "settings": {}
         },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
         "formulaire_cod": {
           "type": "liquid",
           "settings": {
-            "liquid": "{% render 'noshop-cod-form', product: product %}"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
+            "liquid": "{% render 'noshop-cod-form', product: product, pays: 'CI' %}"
           }
         }
       },
